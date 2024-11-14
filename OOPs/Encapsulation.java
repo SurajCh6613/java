@@ -1,3 +1,7 @@
+// Encapsulation
+    // Encapsulation buldles the data and code working on these data into a single unit
+    // It is also known as DATA-HIDING
+
 public class Encapsulation {
     // Creating a class for Encapsulation
     public static class Dog {
